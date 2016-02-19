@@ -1,6 +1,3 @@
-Chinmay Rane
-903156331
-
 This a MultiFactor Trading Strategy implemented in Python using Pandas and Numpy.
 
 Functions,
